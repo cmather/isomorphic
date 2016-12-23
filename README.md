@@ -12,10 +12,10 @@ getting shipped to the browser. By default symbols are designated for `anywhere`
 which means they'll be defined on the server and for the browser.
 
 TODO:
-[ ] hook up to opal compiler as a build step somehow
-[ ] command line tool or plugin to use with opal compiler
-[ ] cleanup and more tests
-[ ] runtime removal of browser code using `method_added` hook and kernel methods
+- [ ] hook up to opal compiler as a build step somehow
+- [ ] command line tool or plugin to use with opal compiler
+- [ ] cleanup and more tests
+- [ ] runtime removal of browser code using `method_added` hook and kernel methods
 
 Examples:
 
